@@ -10,11 +10,11 @@ _A Ruby game of Guess Who where the user is presented with a list of suspects an
 
 ## Setup/Installation Requirements
 
-_Have Ruby and Homebrew installed_
-_Clone this repository into your terminal_
-_Enter the file with the command 'cd guess-who'_
-_Run the file in terminal with the command 'ruby Week5_GuessWho.rb'_
-_Play the game and guess who did it!_
+* _Have Ruby and Homebrew installed_
+* _Clone this repository into your terminal_
+* _Enter the file with the command 'cd guess-who'_
+* _Run the file in terminal with the command 'ruby Week5_GuessWho.rb'_
+* _Play the game and guess who did it!_
 
 ## Support and contact details
 
